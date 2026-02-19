@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Image backups (created by optimize_images.py)
+public/images_backup
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
